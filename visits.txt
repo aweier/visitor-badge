@@ -1,1 +1,2 @@
-echo "0" > vists.txt
+10212
+
