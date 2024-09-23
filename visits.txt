@@ -1,1 +1,1 @@
-11621
+echo "0" > vists.txt
